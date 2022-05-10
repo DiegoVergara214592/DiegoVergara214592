@@ -1,7 +1,7 @@
 <img src="https://www.googleapis.com/drive/v3/files/11yvP8uSmssqrd0piU5Pn1IBRf7qXrzOy?alt=media&key=AIzaSyBFHimHWDyLOtcNJjA268KwRLhsBuckUxc">
-- 👋 Hi, Soy Diego Vergara  @DiegoVergara214592
+- 👋 Hi, Soy 🧑‍💻 Diego Vergara  @DiegoVergara214592
 
-- 👀 Soy Trabajador Freelance que se encarga de diseña páginas web y programar en varios lenguajes de programación
+- 🧑‍💻 Soy Trabajador Freelance que se encarga de diseña páginas web y programar en varios lenguajes de programación
 
 - 🌎 Mi Página Web 🌎 https://novagraphic.site
 - 🗂 Tengo un gran reponsitorio que puedes mirar.
