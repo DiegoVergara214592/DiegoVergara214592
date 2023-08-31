@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Diego Vergara</h1>
 <h3 align="center">A passionate frontend developer from Perú</h3>
 
-<img src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif" align="right" alt="Coding" width="400" >
+<img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" alt="Coding" width="400" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diegovergara214592&label=Profile%20views&color=0e75b6&style=flat" alt="diegovergara214592" /> </p>
 
